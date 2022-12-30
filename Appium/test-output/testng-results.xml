@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T11:14:25Z" name="Default suite" finished-at="2022-06-12T11:14:41Z" duration-ms="15889">
+    <groups>
+    </groups>
+    <test started-at="2022-06-12T11:14:25Z" name="Default test" finished-at="2022-06-12T11:14:41Z" duration-ms="15889">
+      <class name="practice.Appium.ExtentDemo">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:practice.Appium.ExtentDemo@3148f668]" started-at="2022-06-12T11:14:25Z" name="startTest" finished-at="2022-06-12T11:14:25Z" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="extentReportsDemo()[pri:0, instance:practice.Appium.ExtentDemo@3148f668]" started-at="2022-06-12T11:14:25Z" name="extentReportsDemo" finished-at="2022-06-12T11:14:40Z" duration-ms="14653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportsDemo -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:practice.Appium.ExtentDemo@3148f668]" started-at="2022-06-12T11:14:40Z" name="endTest" finished-at="2022-06-12T11:14:41Z" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- practice.Appium.ExtentDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
